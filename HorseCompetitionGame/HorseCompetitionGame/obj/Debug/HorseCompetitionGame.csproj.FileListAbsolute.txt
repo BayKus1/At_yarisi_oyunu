@@ -1,0 +1,14 @@
+C:\Users\Pc\Desktop\C# dersleri\Form\HorseCompetitionGame\HorseCompetitionGame\bin\Debug\HorseCompetitionGame.exe.config
+C:\Users\Pc\Desktop\C# dersleri\Form\HorseCompetitionGame\HorseCompetitionGame\bin\Debug\HorseCompetitionGame.exe
+C:\Users\Pc\Desktop\C# dersleri\Form\HorseCompetitionGame\HorseCompetitionGame\bin\Debug\HorseCompetitionGame.pdb
+C:\Users\Pc\Desktop\C# dersleri\Form\HorseCompetitionGame\HorseCompetitionGame\obj\Debug\HorseCompetitionGame.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\C# dersleri\Form\HorseCompetitionGame\HorseCompetitionGame\obj\Debug\HorseCompetitionGame.Form1.resources
+C:\Users\Pc\Desktop\C# dersleri\Form\HorseCompetitionGame\HorseCompetitionGame\obj\Debug\HorseCompetitionGame.Properties.Resources.resources
+C:\Users\Pc\Desktop\C# dersleri\Form\HorseCompetitionGame\HorseCompetitionGame\obj\Debug\HorseCompetitionGame.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\C# dersleri\Form\HorseCompetitionGame\HorseCompetitionGame\obj\Debug\HorseCompetitionGame.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\C# dersleri\Form\HorseCompetitionGame\HorseCompetitionGame\obj\Debug\HorseCompetitionGame.exe
+C:\Users\Pc\Desktop\C# dersleri\Form\HorseCompetitionGame\HorseCompetitionGame\obj\Debug\HorseCompetitionGame.pdb
+C:\Users\Pc\Desktop\C# dersleri\Form\HorseCompetitionGame\HorseCompetitionGame\bin\Debug\HorseCompetitionGame.exe.manifest
+C:\Users\Pc\Desktop\C# dersleri\Form\HorseCompetitionGame\HorseCompetitionGame\bin\Debug\HorseCompetitionGame.application
+C:\Users\Pc\Desktop\C# dersleri\Form\HorseCompetitionGame\HorseCompetitionGame\obj\Debug\HorseCompetitionGame.exe.manifest
+C:\Users\Pc\Desktop\C# dersleri\Form\HorseCompetitionGame\HorseCompetitionGame\obj\Debug\HorseCompetitionGame.application
